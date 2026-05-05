@@ -1,0 +1,22 @@
+{
+  "name": "universal-queue-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bull-board/api": "^7.0.0",
+    "@bull-board/express": "^7.0.0",
+    "axios": "^1.15.2",
+    "bullmq": "^5.76.4",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "ioredis": "^5.10.1",
+    "nodemailer": "^8.0.7"
+  }
+}
